@@ -21,6 +21,5 @@ BOOL APIENTRY DllMain(HINSTANCE hInstDLL, DWORD fdwReason, LPVOID lpvReserved)
             break;
     }
 
-    /* Return success */
     return TRUE;
 }
